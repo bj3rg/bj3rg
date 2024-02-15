@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+## Tinatamad pa po ako magcode ulit HAHAHA
 <!--
 **bj3rg/bj3rg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
